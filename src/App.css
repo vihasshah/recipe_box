@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+    padding:5%;
+}
+
+.recipe-box{
+    margin: 0 auto;
+    width: 600px;
+    padding:10px;
+    border: 1px solid blue;
+    background-color: lightblue;
+}
+.recipe-input{
+    width: 600px;
+    padding:10px;
+    margin-top:20px;
+}
+.add-btn{
+    margin-top: 20px;
+    display: inline-block;
+    padding:10px;
+    font-size: 12px;
+    border:1px solid;
+}
+.add-btn:hover{
+    cursor: pointer;
+    background-color:lightgreen;
+}
